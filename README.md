@@ -1,9 +1,9 @@
 ## Game Planning
-
+Hello Visitor! You seem to have stumbled across Quill and Issac's game-planning repository :0 _insert live studio cheers and claps_. It's a bit of a read but if your interested in what we're cooking, it's all listed below.
 
 For the sake of visuals ~~really because I'm too lazy to type~~
 
-
+Looks like a lot, but it's a long-term investment so pay attention!
 ◢
 - Char means Character
 - Int. means Interaction
@@ -47,3 +47,5 @@ TYPE | DESCRIPTION
 Melee | Close range, Usually a cone-shaped area in front of the character where enemies within take dmg.
 Ranged | Long range, Usually a cone-shaped area in front of the character that works as view and enm within can be hit. Enm out of view cone can still be hit as long as they are along the line the char is/was _facing_ when shooting/casting _and_ not too far out of launch range.
 Support | No specific attack style, low atk, skills are focused on aiding other teammates.
+
+If you've made it to the end, thank you! We greatly appreciate your time and would like to invite you to leave us some feedback [here!](https://docs.google.com/forms/d/e/1FAIpQLSesd4gTi5ZUEK2DO-7eLdNplixIX63zn9UX01jEYOi4RlJAPA/viewform?usp=sf_link). Updates to this page will happen sporatically so feel free to check back anytime! Most of this ~~If not all~~ will get moved to the wiki but thats much later down the road. Thanks again! Happy web surfing!
