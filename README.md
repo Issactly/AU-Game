@@ -4,11 +4,13 @@ Hello Visitor! You seem to have stumbled across Quill and Issac's game-planning 
 ### Plot (Draft)
 You are trying to prove the multiverse exists and while doing so accidentally create rifts that pull people from their world into yours. The bad guys included. Now its up to you to find everyone and send them home. Build your team and balance stats to fight boses, collecting artifacts that unlock new characters and gear. Try endless mode to gain xp and test your strenght or hit the caves to harvest materials to better your weapons. You can also take a break and enjoy farming, fishing and home decor.
 
+---------
 
-For the sake of visuals ~~really because I'm too lazy to type~~ here is a glossary:
+
+### Glossary ◢
 
 Looks like a lot, but it's a long-term investment on understanding some parts so pay attention!
-◢
+
 - Anim means Animated/Animation
 - Atk means Attack
 - Char means Character
@@ -43,7 +45,7 @@ Water Overlay (Ints. animated)  | Fish (fishing) Splashes (Character Int.) ²Rai
 - ²Path/Bridge
 - ²Boulders
 ---------------------------
-### Char Classes ◢
+### Char Build Aspects ◢
 
 
 TYPE | DESCRIPTION 
@@ -54,17 +56,17 @@ Support | No specific attack style, low atk, skills are focused on aiding other 
 
 ATK TYPES | DESCRIPTION 
 ------- | -------
-Physical | Physical attacks, magic users can also cause Physical atk dmg using things like magically summoned weapons
-Magic (unspecified) | 
-Dark | 
-Light | 
-Energy | 
-Fire | 
-Frost | 
-
+Physical | Anything that physically touches counts as physical atk dmg. (Ex:agic users with summoned or casted weapons, frost users using ice to stab or punch, etc)
+Magic (unspecified) | Things like spells or generally uncategorized things like psychic moves. Magic can be a mix of different elements as well so it's very versatile
+Dark | Uses things like shadows, 'dark' maps give buffs to chars with this atk type
+Light | Uses light and reflections, 'bright' maps and 'wet' maps give buffs to most chars with this atk type
+Energy | Not the same as stamina or electric, mainly used by futuristic and magic atk type chars though
+Fire | Heat, lava, fire. Mainly used by hellish atk type chars
+Frost | Ice, snow, frost and some weather. A rare atk type
 
 
 
 -----------------------------
+
 
 If you've made it to the end, thank you! We greatly appreciate your time and would like to invite you to leave us some feedback [here!](https://docs.google.com/forms/d/e/1FAIpQLSesd4gTi5ZUEK2DO-7eLdNplixIX63zn9UX01jEYOi4RlJAPA/viewform?usp=sf_link). Updates to this page will happen sporatically so feel free to check back anytime! Most of this ~~If not all~~ will get moved to the wiki but thats much later down the road. Thanks again! Happy web surfing!
