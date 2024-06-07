@@ -1,6 +1,10 @@
 ## Game Planning
 Hello Visitor! You seem to have stumbled across Quill and Issac's game-planning repository _insert live studio cheers and claps_. It's a bit of a read but if your interested in what we're cooking, it's all listed below.
 
+### Plot (Draft)
+You are trying to prove the multiverse exists and while doing so accidentally create rifts that pull people from their world into yours. The bad guys included. Now its up to you to find everyone and send them home. Build your team and balance stats to fight boses, collecting artifacts that unlock new characters and gear. Try endless mode to gain xp and test your strenght or hit the caves to harvest materials to better your weapons. You can also take a break and enjoy farming, fishing and home decor.
+
+
 For the sake of visuals ~~really because I'm too lazy to type~~
 
 Looks like a lot, but it's a long-term investment so pay attention!
