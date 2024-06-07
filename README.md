@@ -1,5 +1,5 @@
 ## Game Planning
-Hello Visitor! You seem to have stumbled across Quill and Issac's game-planning repository :0 _insert live studio cheers and claps_. It's a bit of a read but if your interested in what we're cooking, it's all listed below.
+Hello Visitor! You seem to have stumbled across Quill and Issac's game-planning repository _insert live studio cheers and claps_. It's a bit of a read but if your interested in what we're cooking, it's all listed below.
 
 For the sake of visuals ~~really because I'm too lazy to type~~
 
