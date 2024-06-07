@@ -1,6 +1,5 @@
-# Godot-Drafts
+# general land blocks
 
-general land blocks
 * grass
           * solid grass, flowers, stones, clovers, dried, sparkling dewed grass (wet grass)
 * grass overlay
