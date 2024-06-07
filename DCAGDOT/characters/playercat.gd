@@ -34,6 +34,7 @@ func update_animation_parameters(move_input : Vector2):
 		animation_tree.set("parameters/idle/blend_position", move_input)
 
 #chose new state based on whats happening with player
+#couldnt figure out how to directly put in 'does not equal' sign so i just did the exclamation which does the same thing
 func pick_new_state():
 	if(velocity != Vector2.ZERO):
 		state_machine.travel("walk")
