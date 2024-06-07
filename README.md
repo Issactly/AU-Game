@@ -13,7 +13,11 @@
 * water overlay
           - fish (fishing), splashes (character), raindrops
 
-First Header  | Second Header
+TILE CATAGORY  | TILES
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+[ ] Grassland  | Content Cell
+[ ] Grass Overlay  | Content Cell
+[ ] Dirt Pathing  | Content Cell
+[ ] Sand  | Content Cell
+[ ] Water  | Content Cell
+[ ] Water Overlay  | Content Cell
