@@ -5,23 +5,23 @@ Hello Visitor! You seem to have stumbled across Quill and Issac's game-planning 
 You are trying to prove the multiverse exists and while doing so accidentally create rifts that pull people from their world into yours. The bad guys included. Now its up to you to find everyone and send them home. Build your team and balance stats to fight boses, collecting artifacts that unlock new characters and gear. Try endless mode to gain xp and test your strenght or hit the caves to harvest materials to better your weapons. You can also take a break and enjoy farming, fishing and home decor.
 
 
-For the sake of visuals ~~really because I'm too lazy to type~~
+For the sake of visuals ~~really because I'm too lazy to type~~ here is a glossary:
 
-Looks like a lot, but it's a long-term investment so pay attention!
+Looks like a lot, but it's a long-term investment on understanding some parts so pay attention!
 ◢
-- Char means Character
-- Int. means Interaction
 - Anim means Animated/Animation
+- Atk means Attack
+- Char means Character
+- Dmg means Damage
+- Eng means Energy
+- Enm means Enemy/Enemies
+- Int. means Interaction
+- Lvl means Level
+- Sk. means Skill
+- Ugr means Upgrade
 - ² means an Overlay/Upper Layer (in context)
 - ↷ means Lower Layer (in context)
 - ◢ means To be Expanded/Continued
-- Dmg means Damage
-- Atk means Attack
-- Sk. means Skill
-- Ugr means Upgrade
-- Lvl means Level
-- Enm means Enemy/Enemies
-- Eng means Energy
 -----------------------------
 ### Tiles ◢
 
@@ -51,5 +51,20 @@ TYPE | DESCRIPTION
 Melee | Close range, Usually a cone-shaped area in front of the character where enemies within take dmg.
 Ranged | Long range, Usually a cone-shaped area in front of the character that works as view and enm within can be hit. Enm out of view cone can still be hit as long as they are along the line the char is/was _facing_ when shooting/casting _and_ not too far out of launch range.
 Support | No specific attack style, low atk, skills are focused on aiding other teammates.
+
+ATK TYPES | DESCRIPTION 
+------- | -------
+Physical | Physical attacks, magic users can also cause Physical atk dmg using things like magically summoned weapons
+Magic (unspecified) | 
+Dark | 
+Light | 
+Energy | 
+Fire | 
+Frost | 
+
+
+
+
+-----------------------------
 
 If you've made it to the end, thank you! We greatly appreciate your time and would like to invite you to leave us some feedback [here!](https://docs.google.com/forms/d/e/1FAIpQLSesd4gTi5ZUEK2DO-7eLdNplixIX63zn9UX01jEYOi4RlJAPA/viewform?usp=sf_link). Updates to this page will happen sporatically so feel free to check back anytime! Most of this ~~If not all~~ will get moved to the wiki but thats much later down the road. Thanks again! Happy web surfing!
