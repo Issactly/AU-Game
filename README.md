@@ -11,6 +11,4 @@
 * water
           * puddles on all land types, calm water (sparkling), waves, current (directional)
 * water overlay
-          * fish (fishing), splashes (character), raindrops
- * Bullet list
-              * Nested bullet
+          - fish (fishing), splashes (character), raindrops
