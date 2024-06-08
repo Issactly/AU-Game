@@ -63,3 +63,5 @@ Light | Uses light and reflections, 'bright' maps and 'wet' maps give buffs to m
 Energy | Not the same as stamina or electric, mainly used by futuristic and magic atk type chars though
 Fire | Heat, lava, fire. Mainly used by hellish atk type chars
 Frost | Ice, snow, frost and some weather. A rare atk type
+Water | Uses water to deal dmg (best against magma enm)
+Electricity | Shocking atks, can power machines, and heal futuristics
