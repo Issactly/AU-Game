@@ -66,3 +66,5 @@ Fire | Heat, lava, fire. Mainly used by hellish atk type chars
 Frost | Ice, snow, frost and some weather. A rare atk type
 Water | Uses water to deal dmg (best against magma enm)
 Electricity | Shocking atks, can power machines, and heal futuristics
+
+If you've read this far, thank you! <3. We hope you enjoyed whats here so far. We also have a [wiki](https://github.com/Issactly/AU-Game/wiki) that we will be updated with the game.
