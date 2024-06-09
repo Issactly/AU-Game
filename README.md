@@ -67,4 +67,28 @@ Frost | Ice, snow, frost and some weather. A rare atk type
 Water | Uses water to deal dmg (best against magma enm)
 Electricity | Shocking atks, can power machines, and heal futuristics
 
-If you've read this far, thank you! <3. We hope you enjoyed whats here so far. We also have a [wiki](https://github.com/Issactly/AU-Game/wiki) that we will be updated with the game.
+You've reached the end! Thank you so much for taking a look <3. We hope you enjoyed whats here so far. We also have a [wiki](https://github.com/Issactly/AU-Game/wiki) that we will be updated with the game.
+
+###### The rest is our notes and checklists for what we've done so far. You may see mentions of files or folders not on GitHub thats because we have a google drive holding most of our things since we've been having some upload/download issues here.
+
+#### Character Icons
+
+- [ ] Akashi
+- [ ] Amanda
+- [ ] Arthur
+- [ ] Cerine
+- [ ] Eudico
+- [ ] Evan
+- [ ] Grognax
+- [ ] Jasiel
+- [ ] Jeffrey
+- [ ] Kaiden
+- [X] Kerri
+- [X] Kerri (P!)
+- [ ] Mac
+- [ ] Mari
+- [ ] Mech
+- [ ] Mikoto
+- [ ] Noah
+- [ ] Piper
+- [ ] Reina
