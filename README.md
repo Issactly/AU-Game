@@ -92,3 +92,25 @@ You've reached the end! Thank you so much for taking a look <3. We hope you enjo
 - [ ] Noah
 - [ ] Piper
 - [ ] Reina
+
+#### Character Full Body
+
+- [ ] Akashi
+- [ ] Amanda
+- [ ] Arthur
+- [ ] Cerine
+- [ ] Eudico
+- [ ] Evan
+- [ ] Grognax
+- [ ] Jasiel
+- [ ] Jeffrey
+- [ ] Kaiden
+- [ ] Kerri
+- [ ] Kerri (P!)
+- [ ] Mac
+- [ ] Mari
+- [ ] Mech
+- [ ] Mikoto
+- [ ] Noah
+- [ ] Piper
+- [ ] Reina
