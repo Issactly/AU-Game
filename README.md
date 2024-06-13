@@ -57,7 +57,7 @@ Support | No specific attack style, low atk, skills are focused on aiding other 
 
 ATK TYPES | DESCRIPTION 
 ------- | -------
-Physical | Anything that physically touches counts as physical atk dmg. (Ex:agic users with summoned or casted weapons, frost users using ice to stab or punch, etc)
+Physical | Anything that physically touches counts as physical atk dmg. (Ex: magic users with summoned or casted weapons, frost users using ice to stab or punch, etc)
 Magic (unspecified) | Things like spells or generally uncategorized things like psychic moves. Magic can be a mix of different elements as well so it's very versatile
 Dark | Uses things like shadows, 'dark' maps give buffs to chars with this atk type
 Light | Uses light and reflections, 'bright' maps and 'wet' maps give buffs to most chars with this atk type
