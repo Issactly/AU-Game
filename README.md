@@ -80,6 +80,7 @@ You've reached the end! Thank you so much for taking a look <3. We hope you enjo
 - [ ] Eudico
 - [ ] Evan
 - [ ] Grognax
+- [ ] Holda
 - [ ] Jasiel
 - [ ] Jeffrey
 - [ ] Kaiden
@@ -87,11 +88,13 @@ You've reached the end! Thank you so much for taking a look <3. We hope you enjo
 - [X] Kerri (P!)
 - [ ] Mac
 - [ ] Mari
+- [ ] Mark (?)
 - [ ] Mech
 - [ ] Mikoto
 - [ ] Noah
 - [ ] Piper
 - [ ] Reina
+- [X] Vuran
 
 #### Character Full Body
 
@@ -102,15 +105,19 @@ You've reached the end! Thank you so much for taking a look <3. We hope you enjo
 - [ ] Eudico
 - [ ] Evan
 - [ ] Grognax
+- [ ] Holda
 - [ ] Jasiel
 - [ ] Jeffrey
 - [ ] Kaiden
 - [ ] Kerri
 - [ ] Kerri (P!)
 - [ ] Mac
+- [ ] Mark (?)
 - [ ] Mari
 - [ ] Mech
 - [ ] Mikoto
 - [ ] Noah
 - [ ] Piper
 - [ ] Reina
+- [ ] Vuran
+
