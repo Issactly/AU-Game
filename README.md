@@ -1,3 +1,5 @@
+pretty sure rn files are on google drive not here bc we had an error whoops
+
 ## Game Planning
 Hello Visitor! You seem to have stumbled across Quill and Issac's game-planning repository _insert live studio cheers and claps_. It's a bit of a read but if you're interested in what we're cooking, it's all listed below.*
 ###### *Or will be when we type it all out
