@@ -64,7 +64,7 @@ Magic (unspecified) | Things like spells or generally uncategorized things like 
 Dark | Uses things like shadows, 'dark' maps give buffs to chars with this atk type
 Light | Uses light and reflections, 'bright' maps and 'wet' maps give buffs to most chars with this atk type
 Energy | Not the same as stamina or electric, mainly used by futuristic and magic atk type chars though
-Fire | Heat, lava, fire. Mainly used by hellish atk type chars
+Fire | Heat, lava, fire. Mainly used by hellish chars
 Frost | Ice, snow, frost and some weather. A rare atk type
 Water | Uses water to deal dmg (best against magma enm)
 Electricity | Shocking atks, can power machines, and heal futuristics
